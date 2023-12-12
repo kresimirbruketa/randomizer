@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/randomizer/static/js/main.096ec786.js",
+    "index.html": "/randomizer/index.html",
+    "main.096ec786.js.map": "/randomizer/static/js/main.096ec786.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.096ec786.js"
+  ]
+}
